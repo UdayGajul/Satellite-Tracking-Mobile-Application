@@ -18,7 +18,7 @@
 ## 📁 Project Details & Demo
 
 👉 Link to Google Drive folder containing the full project source code (same as uploaded on GitHub) and the app screen recording (.zip file):  
-https://drive.google.com/your_drive_folder_link
+(Click here)[https://drive.google.com/drive/folders/1vSjPoFO_nDfXWpemNirdfeVyEP-2pmP3?usp=sharing]
 
 ## 🛠️ Tech Stack
 
