@@ -3,7 +3,7 @@
 > A mobile app that tracks satellites in real time and displays their position on a 3D Earth model.  
 > Provides users with information such as current coordinates and other satellite details.
 
-**_⭐ This project was completed as my Master’s final year research project with my classmates in a team effort. I selected the topic of satellite tracking, performed research and a literature review, identified a real‑world problem, worked on implementing the Three.js 3D Earth model and handling complex TLE data, and integrated API and React Native components. The final result is this mobile application, developed as a practical solution to the identified problem._**
+**_⭐ This project was completed as my Master’s final year research project with my classmates in a team effort. I selected the topic of satellite tracking, performed research and a literature review, identified a real‑world problem, worked on implementing the Three.js 3D Earth model, handling complex TLE data, integrated API and React Native components. The final result is this mobile application, developed as a practical solution to the identified problem._**
 
 ## 📌 Features
 
@@ -13,7 +13,10 @@
 4. 🌐 Only top satellites from selected countries (India, Russia, China, USA, UK) are available  
 5. 🛰️ Live tracking where satellites move on the Earth model in real time  
 6. 📊 Basic satellite information such as coordinates, altitude and other details  
-7. ❓ FAQ section on satellite 
+7. ❓ FAQ section on satellite
+8. 🛠️ Admin can add new satellites, which are automatically reflected in the application
+9. 🔄 Real-time data updates ensure newly added or modified satellites are instantly visible to users
+10. 🚫 Admin can disable satellites that are inactive or out of service 
 
 ## 📁 Project Details & Demo
 
