@@ -1,3 +1,4 @@
+
 # 🛰️ Satellite Tracking Mobile Application
 
 > A mobile app that tracks satellites in real time and displays their position on a 3D Earth model.  
@@ -7,16 +8,25 @@
 
 ## 📌 Features
 
+### 👤 User Features
+
 1. 👤 User registration and login so only authenticated users can use the app  
-2. 🧭 Simple 3D Earth model visible when the app launches  
-3. 💫 Users can choose orbit categories (LEO, MEO, GEO) using the app’s navigation drawer to view satellites in the selected orbit  
-4. 🌐 Only top satellites from selected countries (India, Russia, China, USA, UK) are available  
-5. 🛰️ Live tracking where satellites move on the Earth model in real time  
-6. 📊 Basic satellite information such as coordinates, altitude and other details  
-7. ❓ FAQ section on satellite
-8. 🛠️ Admin can add new satellites, which are automatically reflected in the application
-9. 🔄 Real-time data updates ensure newly added or modified satellites are instantly visible to users
-10. 🚫 Admin can disable satellites that are inactive or out of service 
+2. 📘 After login, users see a brief “How to Operate the App” instruction page  
+3. 🧭 Simple 3D Earth model visible when the app launches  
+4. 💫 Users can choose orbit categories (LEO, MEO, GEO) using the app’s navigation drawer to view satellites in the selected orbit  
+5. 🌐 Only top satellites from selected countries (India, Russia, China, USA, UK) are available  
+6. 🛰️ Live tracking where satellites move on the Earth model in real time  
+7. 📊 Basic satellite information such as coordinates, altitude and other details  
+8. ❓ FAQ section on satellite  
+9. ⭐ In‑app rating system allowing users to rate the application and submit feedback
+
+### 🔐 Admin Features
+
+10. 🖥️ Admin dashboard shows total satellites, active/inactive counts, total users and more  
+11. 🛠️ Admin can add new satellites, which are automatically reflected in the application  
+12. 🔄 Real‑time data updates ensure newly added or modified satellites are instantly visible to users  
+13. 🚫 Admin can disable satellites that are inactive or out of service  
+14. 📝 Admin can review user feedback and ratings to make informed decisions for future improvements
 
 ## 📁 Project Details & Demo
 
